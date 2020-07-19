@@ -1,5 +1,8 @@
-### Hi there 👋 my name is Arsalan
 
+<h2>Hi, I'm Muhammad Arsalan<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p><em>Computer Science Student<a href="https://www.iba.edu.pk”>Institute of Business Administration</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p> 
 
 
 - 🔭 I’m currently pursuing a Bachelors in Computer Science, from the Institute of Business Administration .
