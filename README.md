@@ -1,12 +1,11 @@
 
-
 <h2>Hi, my name is Muhammad Arsalan! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Computer Science Student <a href="http://www.iba.edu.pk”>Institute of Business Administration</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-arsalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pk/muhammad-arsalan-khurram/)](https://www.linkedin.com/pk/muhammad-arsalan-khurram/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-arsalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-arsalan-khurram-46185457/)](https://www.linkedin.com/in/muhammad-arsalan-khurram-46185457/)
 ![GitHub followers](https://img.shields.io/github/followers/ArsalanSahab?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ArsalanSahab.ArsalanSahab)
 
