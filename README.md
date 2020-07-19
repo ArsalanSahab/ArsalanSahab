@@ -6,7 +6,7 @@
 </em></p>
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-arsalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammad-arsalan-khurram/)](https://www.linkedin.com/in/muhammad-arsalan-khurram/)
+[![Linkedin: thaianebraga](https://img.shields.io/badge/-arsalan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/pk/muhammad-arsalan-khurram/)](https://www.linkedin.com/pk/muhammad-arsalan-khurram/)
 ![GitHub followers](https://img.shields.io/github/followers/ArsalanSahab?label=Follow&style=social)
 ![](https://visitor-badge.glitch.me/badge?page_id=ArsalanSahab.ArsalanSahab)
 
