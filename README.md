@@ -46,6 +46,6 @@
 - 📫 How to reach me: 
 
    * Email : arsalan.sahab@gmail.com
-   * LinkedIn : Muhammad Arsalan Khurram
+   * Medium : Arsalan Sahab
    * Quora : Muhammad Arsalan
 - My hobbies include : Reading, Tinkering with my Raspberry Pi and writng on Medium.
